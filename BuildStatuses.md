@@ -53,5 +53,5 @@
 | [SQLProvider](https://github.com/fsprojects/SQLProvider) | [![Mono build status](https://travis-ci.org/fsprojects/SQLProvider.png)](https://travis-ci.org/fsprojects/SQLProvider) | |
 | [Tamarin](https://github.com/fsprojects/Tamarin) | | |
 | [TPCombinators](https://github.com/fsprojects/TPCombinators) | [![Mono build status](https://travis-ci.org/fsprojects/TPCombinators.svg)](https://travis-ci.org/fsprojects/TPCombinators) | |
-| [VisualFSharpPowerTools](https://github.com/fsprojects/VisualFSharpPowerTools) | | [![Build status](https://ci.appveyor.com/api/projects/status/9ii93nkif8hc6cdv/branch/master)](https://ci.appveyor.com/project/dungpa/visualfsharppowertools) |
+| [VisualFSharpPowerTools](https://github.com/fsprojects/VisualFSharpPowerTools) | n/a | [![Build status](https://ci.appveyor.com/api/projects/status/9ii93nkif8hc6cdv/branch/master)](https://ci.appveyor.com/project/dungpa/visualfsharppowertools) |
 | [Vulpes](https://github.com/fsprojects/Vulpes) | [![Mono build status](https://travis-ci.org/fsprojects/Vulpes.svg)](https://travis-ci.org/fsprojects/Vulpes) | |
