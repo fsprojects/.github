@@ -1,9 +1,11 @@
 FsProjects Admin
 ================
 
-To request a project to be added or removed from the F# Community Incubation space, please add an issue to this repository.
+## Requesting transfer
 
-# Onboarding Process for Transferring to fsprojects
+To request a project to be added or removed from the F# Community Incubation space, [please add an issue to this repository](https://github.com/fsprojects/FsProjectsAdmin/issues/new).
+
+## Onboarding process 
 
 After you add an issue to request moving to "fsprojects"
 
