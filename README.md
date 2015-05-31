@@ -1,5 +1,3 @@
-FsProjects Admin
-================
 
 An F# Community Space for incubating open community projects.
 
