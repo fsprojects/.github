@@ -9,7 +9,7 @@ To request a project to be added or removed from this F# Community Incubation sp
 
 After you add an issue to request moving to "fsprojects"
 
-1. We make you owner of the https://github.com/fsprojects-transfer/ organization
+1. We make you a temporary owner of the (otherwise empty) https://github.com/fsprojects-transfer/ organization
 2. You  transfer ownership to https://github.com/fsprojects-transfer/ using GitHub's "transfer project" feature. 
 3. We then complete the transfer to https://github.com/fsprojects.  
 
