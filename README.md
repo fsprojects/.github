@@ -1,6 +1,8 @@
 FsProjects Admin
 ================
 
+An F# Community Space for incubating open community projects.
+
 ## Requesting transfer
 
 To request a project to be added or removed from the F# Community Incubation space, [please add an issue to this repository](https://github.com/fsprojects/FsProjectsAdmin/issues/new).
