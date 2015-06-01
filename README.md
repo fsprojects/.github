@@ -29,7 +29,7 @@ After that, the following are normal:
 
 * You may receive a request to make "[fsprojects](https://www.nuget.org/profiles/fsprojects)" a co-owner on any nuget packages associated with the repo.  This is to ensure the project can has the possibility of living on should you abandon it or not longer be able to publish nuget packages.
 
-* Should you abandon the project, the owners of "fsprojects" are backup owners. They will try to recruit a new owner.
+* Should you abandon the project, the owners of "fsprojects" are backup owners (specifically the @fsprojectsgit account). They will try to recruit a new owner.
 
 * The project *might* be a bit more visible, so you may get more feedback or contributions. Historically this has happened for many projects. 
 
