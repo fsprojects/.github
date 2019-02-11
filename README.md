@@ -7,19 +7,15 @@ To request a project to be added or removed from this F# Community Incubation sp
 
 ## Onboarding process 
 
-After you add an issue to request moving to "fsprojects"
+If you are a member of the "fsprojects" organization you can create repos here and transfer repos in.
 
-1. We make you a temporary owner of the (otherwise empty) https://github.com/fsprojects-transfer/ organization
-2. You  transfer ownership to https://github.com/fsprojects-transfer/ using GitHub's "transfer project" feature. 
-3. We then complete the transfer to https://github.com/fsprojects.  
+After transfer you remain admin on the project and are expected to continue to respond to issues and make new releases.  
 
-You remain admin on the project and are expected to continue to respond to issues and make new releases.  
-
-GitHub implicitly redirects accesses to your repo (though not to the old URL of the gh-pages of your repo).  Issues and/or wiki are transferred.
+After transfer GitHub implicitly redirects accesses to your repo (though not to the old URL of the gh-pages of your repo).  Issues and/or wiki are transferred.
 
 After that, the following are normal:
 
-* A section gets added to the README.md like [this one](https://github.com/fsprojects/FSharp.Compatibility#maintainers)
+* A section gets added to the README.md like [this one](https://github.com/fsprojects/FSharp.Compatibility#maintainers), or please add it yourself
 
 * You may get help with continuous integration and/or cross-platform builds for the repo.
 
@@ -29,9 +25,10 @@ After that, the following are normal:
 
 * You may receive a request to make "[fsprojects](https://www.nuget.org/profiles/fsprojects)" a co-owner on any nuget packages associated with the repo.  This is to ensure the project can has the possibility of living on should you abandon it or not longer be able to publish nuget packages.
 
-* Should you abandon the project, the owners of "fsprojects" are backup owners (specifically the @fsprojectsgit account). They will try to recruit a new owner.
+* Should you abandon the project, the admins of "fsprojects" are backup owners (specifically the @fsprojectsgit account). They will try to recruit a new owner.
 
 * The project *might* be a bit more visible, so you may get more feedback or contributions. Historically this has happened for many projects. 
 
+* Current admins for fsprojects are Tomas Petricek, Don Syme, Steffen Forkmann and Sergey Tihon
 
 
