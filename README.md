@@ -46,15 +46,15 @@ After transfer you will be assigned GitHub “admin” rights on the project and
 
 * Projects are requested to include a section in the README.md like [this one](https://github.com/fsprojects/FSharp.Compatibility#maintainers). This may get added by backup admins, or please add it yourself.
 
-* Projects should have a Code of Conduct and it is the resposibility of project admins to enforce this. The backup admins reserve the right to apply the [FSSF Code of Conduct](https://foundation.fsharp.org/code_of_conduct) if no Code of Conduct is present and to apply this Code of Conduct to the organization as a whole in the future.
+* Projects should have a Code of Conduct and it is the resposibility of project admins to enforce this. The backup admins reserve the right to apply the [FSSF Code of Conduct](https://foundation.fsharp.org/code_of_conduct) if no Code of Conduct is present and may in the future apply this Code of Conduct to the organization as a whole.
 
-* The backup admins reserve the right to make maintenance and policy commits to your projects, including but not exclusive to adjusting license and copyright messages for consistency and accuracy, applying a code of conduct, making adjustments to continuous integration, clarifying build, contribution and release instructions, clarifying documentation, pulling pull requests, unlisting packages, or addressing known security vulnerabilities. The intent in these things is always to be helpful and will where possible be done via PRs. It is strongly preferred that project maintainers look after these things.
+* You must have 2FA enabled to be a member of this organization.
+
+* The backup admins reserve the right to make maintenance and policy commits to your projects, including, but not exclusively, to adjusting license and copyright messages for consistency and accuracy, applying a code of conduct, making adjustments to continuous integration, clarifying build, contribution and release instructions, clarifying documentation, pulling pull requests, unlisting packages, or addressing known security vulnerabilities. The intent in these things is always to be helpful and will where possible be done via PRs. It is strongly preferred that project maintainers look after these things.
 
 * Should a project be "abandoned", the backup admins may take certain actions. "Abandoning" means not answering question issues or commenting/pulling/approving pull requests within 30 days, or not answering a contact request from the backup admins via a github issue within 14 days. For abandoned projects, the backup admins may try to recruit a new maintainer, granting Github "Maintainer" rights, normally by asking an issue on the repository, though there is no guarantee they will do this (it is preferable you do it yourself before abandonment!). They may also give permissions to publish nuget packages or other assets, make direct commits to the project, or decide to rename, archive or delete the project.
 
 * The backup admins reserve the right to remove a project from "fsprojects" without reason (though this has never happened historically). In this case, an issue will be added to the repository and an outward transfer facilitated should a current maintainer wish that. If the project has not been transferred out within 14 days the project may be archived or deleted.
-
-* If you are the person who initiated the inward transfer of the project, and still have "administrator" rights, you may move the project out of “fsprojects” at any time.
 
 * These policies may be adjusted by fsprojects backup admins at any time. Notice will be given via a pull request to this file.
 
