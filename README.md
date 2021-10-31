@@ -29,6 +29,6 @@ After that, the following are normal:
 
 * The project *might* be a bit more visible, so you may get more feedback or contributions. Historically this has happened for many projects. 
 
-* Current admins for fsprojects are Tomas Petricek, Don Syme, Steffen Forkmann and Sergey Tihon
+* Current admins for fsprojects are Don Syme and Sergey Tihon
 
 
