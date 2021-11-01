@@ -18,7 +18,7 @@ After transfer GitHub implicitly redirects accesses to your repo (though not to 
 
 After transfer you will be assigned GitHub “admin” rights on the project and are expected to continue to respond to issues and make new releases.  
 
-## Current Policy for "fsprojects" Projects
+## Policies
 
 * The intention of "fsprojects" is to facilitate a co-operative neutral space where projects exist. The expectation is that you are seeking collaboration and co-operation and that you wish to facilitate other people to contribute to your project.
 
