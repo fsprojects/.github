@@ -2,7 +2,7 @@
 
 An F# Community Space for incubating open community projects.
 
-The intention of "fsprojects" is to facilitate a co-operative neutral space where open community projects exist.
+The intention of "fsprojects" is to facilitate a co-operative neutral space where open community projects are born, live, thrive and grow to maturity.
 
 This is an incubation space, and so is slightly anarchic: the idea is to "let many flowers bloom" and take a creative attitude to incubation, co-operation, experimentation and maturation. We understand that creativity is also Darwinian: we are equally happy whether a project matures and is used by thousands, or if a project ends up archived.
 
