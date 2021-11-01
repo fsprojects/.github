@@ -54,6 +54,8 @@ After transfer you will be assigned GitHub “admin” rights on the project and
 
 * Should a project be "abandoned", the backup admins may take certain actions. "Abandoning" means not answering question issues or commenting/pulling/approving pull requests within 30 days, or not answering a contact request from the backup admins via a github issue within 14 days. For abandoned projects, the backup admins may try to recruit a new maintainer, granting Github "Maintainer" rights, normally by asking an issue on the repository, though there is no guarantee they will do this (it is preferable you do it yourself before abandonment!). They may also give permissions to publish nuget packages or other assets, make direct commits to the project, or decide to rename, archive or delete the project.
 
+* The backup admins may decide to archive abandoned projects after 1 year of primary admin absence (no activity in issues and/or commits). When archived, a project is renamed (prefixed by `zzarchive-`) or moved to the "fsprojects-archive" organization, and marked as read-only on GitHub.
+
 * The backup admins reserve the right to remove a project from "fsprojects" without reason (though this has never happened historically). In this case, an issue will be added to the repository and an outward transfer facilitated should a current maintainer wish that. If the project has not been transferred out within 14 days the project may be archived or deleted.
 
 * These policies may be adjusted by fsprojects backup admins at any time. Notice will be given via a pull request to this file.
