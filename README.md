@@ -40,9 +40,11 @@ Your project *might* be a bit more visible, so you may get more feedback or cont
 
 * **Packages** - You may also receive a request to make the [fsprojects](https://www.nuget.org/profiles/fsprojects) nuget account a co-owner on any nuget packages associated with the repo. This is primarily to ensure the project can has the possibility of living on should you abandon it or not longer be able to publish nuget packages.
 
-* **OSS Licences** - Projects in fsprojects should have a recognised [Open Source License](https://opensource.org/licenses#:~:text=Open%20source%20licenses%20are%20licenses,Source%20Initiative's%20license%20review%20process.)
+* **OSS Licences** - Projects in fsprojects should have a recognised [Open Source License](https://opensource.org/licenses#:~:text=Open%20source%20licenses%20are%20licenses,Source%20Initiative's%20license%20review%20process.) 
 
 * **Neutral space** - Projects may support commercial activity outside "fsprojects" (within the project license), but should not be a direct source of revenue nor represent an exclusive commercial advantage.
+
+* **Copyright** - No copyright is transferred, it remains with the relevant contributors. Your project is requested to have accurate copyright notices kept up-to-date.
 
 * **README** - Projects are requested to include a section in the README.md like [this one](https://github.com/fsprojects/FSharp.Compatibility#maintainers). This may get added by backup admins, or please add it yourself.
 
