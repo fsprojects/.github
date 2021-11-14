@@ -8,6 +8,13 @@ This is an incubation space, and so is slightly anarchic: the idea is to "let ma
 
 Our expectation is that you are seeking collaboration and co-operation, and that you wish to facilitate other people to contribute to your project.
 
+To get a comprehensive understanding, please read [the policies section](#policies) below. Since sharing and collaboration are based on trust and benevolence, here are some important key points of the impact having a project in this space:
+
+* _fsprojects_ is not a legal organization, and it is not part of the [F# Software Foundation](https://fsharp.org), although well-known FSSF members are part of it by hosting or contribution.
+* _fsprojects_ is currently maintained by Sergey Tihon and Don Syme.
+* "Transfering" your project to _fsprojects_ does **not** mean that you give away ownership or any rights apart from the ones you grant in your project's license.
+* Moving your project out of _fsprojects_ is always possible.
+
 ## Requesting transfer
 
 To request a project to be added or removed from this F# Community Incubation space, [please add an issue to this repository](https://github.com/fsprojects/FsProjectsAdmin/issues/new).
@@ -16,7 +23,7 @@ To request a project to be added or removed from this F# Community Incubation sp
 
 If you are a member of the "fsprojects" organization you can create repos here and transfer repos in.
 
-After transfer GitHub implicitly redirects accesses to your repo (though not to the old URL of the gh-pages of your repo).  Issues and/or wiki are transferred.
+After transfer GitHub implicitly redirects accesses to your repo (though not to the old URL of the gh-pages of your repo). Issues and/or wiki are transferred.
 
 After transfer you will be assigned GitHub “admin” rights on the project and are expected to continue to respond to issues and make new releases.  
 
