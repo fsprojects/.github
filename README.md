@@ -6,7 +6,9 @@ The intention of "fsprojects" is to facilitate a co-operative neutral space wher
 
 This is an incubation space, and so is slightly anarchic: the idea is to "let many flowers bloom" and take a creative attitude to incubation, co-operation, experimentation and maturation. We understand that creativity is also Darwinian: we are equally happy whether a project matures and is used by thousands, or if a project ends up archived.
 
-Our expectation is that you are seeking collaboration and co-operation, and that you wish to facilitate other people to contribute to your project.
+No copyright is transferred and no rights to code are granted beyond those in the project license. Our expectation is that you are seeking collaboration and co-operation, and that you wish to facilitate other people to contribute to your project. It's more like a joint working space, with some loose shared goals, and if you abandon the project the backup maintainers have some rights to do things to the github project itself.
+
+Current "fsprojects" backup admins are Sergey Tihon and Don Syme.  "fsprojects" is not a part of the F# Software Foundation, however we think of it as as "FSSF-compatible" - we align with the FSSF goals for education and community enablement by running the project space.
 
 ## Requesting transfer
 
@@ -60,4 +62,3 @@ Your project *might* be a bit more visible, so you may get more feedback or cont
 
 * **Policy adjustment** - These policies may be adjusted by fsprojects backup admins at any time. Notice will be given via a pull request to this file.
 
-* Current fsprojects backup admins are Sergey Tihon and Don Syme.
