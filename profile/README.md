@@ -40,6 +40,8 @@ Your project *might* be a bit more visible, so you may get more feedback or cont
 
 * **💔** - If you are the person who initiated the inward transfer of the project, and still have "administrator" rights, you may move the project out of “fsprojects” at any time.
 
+* **🤔 Forking** - Sometimes open source projects developed elsewhere get widely used, and then stagnate, and the original developer no longer maintains the project or even replies. In this situation it's sometimes proposed to fork the project into fsprojects, and copy across all issues, and continue development, perhaps under a different name. This can be done if really, really necessary, but requires there to have been a real effort to engage with the original developer, and there must be a new maintainer to do the transfer and maintain the new repository. The license must permit this kind of derived work, and should not be modified. Any copyright notices must be respected and a copyright notice added to all files. A polite recognition of the origins should be added to the README, and if the original developer desires to re-engage this should be respected and a positive resolution found.
+
 * **Packages** - You may also receive a request to make the [fsprojects](https://www.nuget.org/profiles/fsprojects) nuget account a co-owner on any nuget packages associated with the repo. This is primarily to ensure the project can has the possibility of living on should you abandon it or not longer be able to publish nuget packages.
 
 * **OSS Licences** - Projects in fsprojects should have a recognised [Open Source License](https://opensource.org/licenses#:~:text=Open%20source%20licenses%20are%20licenses,Source%20Initiative's%20license%20review%20process.) 
