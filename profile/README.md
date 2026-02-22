@@ -56,6 +56,8 @@ Your project *might* be a bit more visible, so you may get more feedback or cont
 
 * **2FA** - You must have 2FA enabled to be a member of this organization.
 
+* 🤖 **Repo Assist** and other AI repo maintainence: Backup maintainers may choose to add automated AI repository assistant such as Repo Assist to "stale" repositories, or propose to add it to "active" repositories (by filing an issue or PR)
+
 * **Abandoned projects** - Should a project be "abandoned", the backup admins may take certain actions. "Abandoning" means not answering question issues or commenting/pulling/approving pull requests within 30 days, or not answering a contact request from the backup admins via a github issue within 14 days. For abandoned projects, the backup admins may try to recruit a new maintainer, granting Github "Maintainer" rights, normally by asking an issue on the repository, though there is no guarantee they will do this (it is preferable you do it yourself before abandonment!). They may also give permissions to publish nuget packages or other assets, make direct commits to the project, or decide to rename, archive or delete the project.
 
 * **Archiving projects** - The backup admins may decide to archive abandoned projects after 1 year of primary admin absence (no activity in issues and/or commits). When archived, a project is renamed (prefixed by `zzarchive-`) or moved to the "fsprojects-archive" organization, and marked as read-only on GitHub.
